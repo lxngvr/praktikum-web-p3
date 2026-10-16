@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portofolio Pribadi</title>
-    link rel="stylesheet" href="{{ asset('css/style.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/style.css') }}">
 </head>
 
 <body>
@@ -16,7 +16,7 @@
 
         <!-- Gambar Profil -->
         <div class="text-center">
-            <img src="assets/slf-img.jpg" alt="Gambar Profil" width="250">
+            <img src="assets/towewew.jfif" alt="Gambar Profil" width="250">
         </div>
 
         <!-- Tentang Saya-->

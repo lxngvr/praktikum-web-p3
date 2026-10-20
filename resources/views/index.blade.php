@@ -92,6 +92,8 @@
         </footer>
 
     </div>
+
+     <script src="{{ asset('js/config.js') }}"></script>
 </body>
 
 </html>
